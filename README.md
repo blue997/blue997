@@ -1,7 +1,7 @@
 # 🚀 欢迎来到我的GitHub主页！  
   
 👋 你好，我是Blue997，一个热衷于编程和探索新技术的人。在这个空间里，我分享我的项目、学习笔记和一些有趣的想法。 
-![][https://media.giphy.com/media/xT9DPDaFp65bRP0Ruo/giphy.gif?cid=790b7611vmn17kkzvht3jvojs7zvmh6nyaxcgtnx3db01ihz&ep=v1_gifs_search&rid=giphy.gif&ct=g]
+![](https://media.giphy.com/media/xT9DPDaFp65bRP0Ruo/giphy.gif?cid=790b7611vmn17kkzvht3jvojs7zvmh6nyaxcgtnx3db01ihz&ep=v1_gifs_search&rid=giphy.gif&ct=g)
   
 ## 📚 最近的项目  
   
