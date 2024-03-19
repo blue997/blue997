@@ -2,9 +2,7 @@
   
 👋 你好，我是Blue997，一个热衷于编程和探索新技术的人。在这个空间里，我分享我的项目、学习笔记和一些有趣的想法。 
 
-<center>
-<img src="https://i.giphy.com/81xwEHX23zhvy.webp">
-</center>
+| ![图片描述](https://i.giphy.com/81xwEHX23zhvy.webp) |
 
 ## 📚 最近的项目  
   
